@@ -10,4 +10,4 @@
 
 >You can reach me in: [Here]
 
->Thank you so match for reading! ☺
+>Thank you so match for whatching me! ☺
