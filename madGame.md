@@ -1,5 +1,5 @@
 print('Welcome to My Quiz')
-answer=input('Are you ready to play the Quiz ? (yes/no) :')
+answer=input('Are you ready to play this Quiz ? (yes/no) :')
 score=0
 total_questions=3
  
