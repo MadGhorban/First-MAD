@@ -5,7 +5,7 @@ total_questions=3
  
 if answer.lower()=='yes':
     answer=input('Question 1: What is your Favorite programming language?')
-    if answer.lower()=='python':
+    if answer.lower()=='Python':
         score += 1
         print('correct')
     else:
