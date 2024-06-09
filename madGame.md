@@ -7,7 +7,7 @@ if answer.lower()=='yes':
     answer=input('Question 1: What is your Favorite programming language?')
     if answer.lower()=='Python':
         score += 1
-        print('correct')
+        print('true')
     else:
         print('Wrong Answer :(')
  
@@ -15,7 +15,7 @@ if answer.lower()=='yes':
     answer=input('Question 2: Do you follow any author on AskPython? ')
     if answer.lower()=='yes':
         score += 1
-        print('correct')
+        print('true')
     else:
         print('Wrong Answer :(')
  
