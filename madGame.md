@@ -22,7 +22,7 @@ if answer.lower()=='yes':
     answer=input('Question 3: What is the name of your favourite website for learning Python?')
     if answer.lower()=='askpython':
         score += 1
-        print('correct')
+        print('true')
     else:
         print('Wrong Answer :(')
  
