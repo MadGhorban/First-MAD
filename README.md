@@ -8,6 +8,6 @@
 
 >My favourite color: [black and white]
 
->You can reach me in: [Here]
+>You can find me in: [Here]
 
 >Thank you so match for whatching me! ☺
