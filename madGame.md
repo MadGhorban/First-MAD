@@ -9,7 +9,7 @@ if answer.lower()=='yes':
         score += 1
         print('true')
     else:
-        print('Wrong Answer :(')
+        print('false:(')
  
  
     answer=input('Question 2: Do you follow any author on AskPython? ')
@@ -17,14 +17,14 @@ if answer.lower()=='yes':
         score += 1
         print('true')
     else:
-        print('Wrong Answer :(')
+        print('false:(')
  
     answer=input('Question 3: What is the name of your favourite website for learning Python?')
     if answer.lower()=='askpython':
         score += 1
         print('true')
     else:
-        print('Wrong Answer :(')
+        print('false:(')
  
 print('Thankyou for Playing this small quiz game, you attempted',score,"questions correctly!")
 mark=(score/total_questions)*100
