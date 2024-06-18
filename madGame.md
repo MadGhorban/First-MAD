@@ -1,4 +1,4 @@
-print('Welcome, This is a Quiz')
+print('Hello and Welcome, This is a Quiz')
 answer=input('Are you ready to play this Quiz ? (y/n) :')
 score=0
 total_questions=3
