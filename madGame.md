@@ -1,5 +1,5 @@
-print('Hello and Welcome, This is a little Quiz')
-answer=input('Do you want to play this Quiz ? (y/n) :')
+print('Hello and Welcome, This is a short Quiz')
+answer=input('Do you want to play it ? (y/n) :')
 score=0
 total_questions=3
  
