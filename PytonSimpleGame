@@ -1,6 +1,9 @@
 This is the step-by-step description of this Python code for making the game:
 
+Step 1: Game Setup:
 
+Open your Python editor or IDE of choice (eg, Visual Studio Code, PyCharm, IDLE).
+Create a new Python file and save it with a meaningful name, such as "py".
 
 
 # Simple pygame program
