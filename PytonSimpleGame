@@ -5,6 +5,9 @@ Step 1: Game Setup:
 Open your Python editor or IDE of choice (eg, Visual Studio Code, PyCharm, IDLE).
 Create a new Python file and save it with a meaningful name, such as "py".
 
+Step 2: Import the required libraries:
+
+Since this is a text-based game we won't need any external libraries, so there's no need to import any libraries.😎
 
 
 
