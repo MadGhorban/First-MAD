@@ -11,7 +11,6 @@ Since this is a text-based game we won't need any external libraries, so there's
 
 Step 3: Define the game function:
 
-```
   import random
 
   def guessing_game():
@@ -20,7 +19,14 @@ Step 3: Define the game function:
     upper_bound = 100
     secret_number = random.randint(lower_bound, upper_bound)
     attempts = 0
-```
+
+ while True:
+        attempts += 1
+        user_guess = int(input(f"\nGuess the number between {lower_bound} and {upper_bound}: "))
+
+
+
+
 
 
 
