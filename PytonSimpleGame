@@ -27,7 +27,9 @@ Step 3: Define the game function:
 if user_guess == secret_number:
             print(f"Congratulations! You guessed the number {secret_number} in {attempts} attempts.")
 
-
+break
+        elif user_guess < secret_number:
+            print("Try again! The secret number is higher.")
 
 
 
