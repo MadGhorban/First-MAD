@@ -30,8 +30,17 @@ if user_guess == secret_number:
 break
         elif user_guess < secret_number:
             print("Try again! The secret number is higher.")
-else:
+        else:
             print("Try again! The secret number is lower.")
+
+
+
+
+
+
+
+
+
 
 
 
