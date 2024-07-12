@@ -33,10 +33,14 @@ break
         else:
             print("Try again! The secret number is lower.")
 
+Step 4: Implement the game loop:
 
-
-
-
+def main():
+    while True:
+        guessing_game()
+        play_again = input("\nDo you want to play again? (yes/no): ")
+        if play_again.lower() != "yes":
+            print("Thank you for playing. Goodbye!")
 
 
 
