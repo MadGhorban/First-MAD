@@ -56,7 +56,7 @@ Step 5: In this step of learning how to make a game with Python, it is time to r
 
 
 
-# Simple pygame program
+
 
 # Import and initialize the pygame library
 import pygame
