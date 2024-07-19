@@ -53,7 +53,7 @@ For this purpose, the following steps should be followed:
 *Save the Python file and run it using your Python interpreter.
 *The game window will open showing a green snake on a white background.
 *Use the arrow keys to control the snake and try to eat the black food.
-
+*The snake grows longer with each food it eats, and it's game over if the snake hits the boundaries or itself.
 
 
 
