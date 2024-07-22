@@ -54,7 +54,7 @@ For this purpose, the following steps should be followed:
 *The game window will open showing a green snake on a white background.
 *Use the arrow keys to control the snake and try to eat the black food.
 *The snake grows longer with each food it eats, and it is game over if the snake hits the boundaries or itself.
-
+*To play again, close the end game window and press "C" to restart or "Q" to exit the game.
 
 
 
