@@ -64,9 +64,6 @@ For this purpose, the following steps should be followed:
 
 
 
-# Run until the user asks to quit
-running = True
-while running:
 
     # Did the user click the window close button?
     for event in pygame.event.get():
