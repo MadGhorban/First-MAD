@@ -57,3 +57,5 @@ For this purpose, the following steps should be followed:
 *To play again, close the end game window and press "C" to restart or "Q" to exit the game.
 
         
+You have successfully implemented the python code to make the snack game using Pygame.
+You can customize and upgrade the game by adding sound effects, levels or additional features to make the game more interesting.
