@@ -8,3 +8,4 @@ the list below presents a diverse range of games made in Python that are of grea
 #Battle for Wesnoth: A turn-based strategy game with fantasy elements, story style that uses Python in its backend.
 #Civilization IV: While not entirely written in Python, Civilization IV's gameplay logic is scripted in Python, allowing for modification and customization.
 #Frets on Fire: is a rhythm and music game that challenges players to simulate playing the guitar using their keyboard, creating a fun and engaging musical experience.
+#Eve Online: This massively multiplayer online (MMO) game uses Python for its server-side scripting, facilitating complex in-game worlds and interactions.
