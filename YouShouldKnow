@@ -15,3 +15,8 @@ the list below presents a diverse range of games made in Python that are of grea
 #Battlefield 2: is a first-person shooter military simulation game that handles game logic with Python scripts.
 #Toontown Online: A 3D game that uses Python for server-side coding and the panda3D library for graphics.
 #And many other things
+
+These examples of games made with Python show how Python's versatility and ease of use make it a valuable tool for game development across multiple genres and platforms.
+There are a lot of games made with Python and we will limit ourselves to the ones introduced above.
+If you want to know what games are written with Python and get a complete list of them, use other sources and references.
+Most games use the "tkinter" interface and the "pygame" library to create games with Python.
