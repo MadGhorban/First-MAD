@@ -23,3 +23,6 @@ Most games use the "tkinter" interface and the "pygame" library to create games 
 
 #Python game code for Android
 
+Users may have a question whether it is possible to make an Android game with Python?
+The answer to this question is yes, and there are several ways to achieve this goal, i.e.
+making games with Python for Android:
