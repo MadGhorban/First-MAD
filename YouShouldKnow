@@ -30,3 +30,6 @@ making games with Python for Android:
 Kivy: Kivy is an open source Python library designed for developing multi-touch applications and can be used to build Python games for Android.
 This Python library supports different platforms including Android. 
 With Kivy, you can create games and other interactive applications using Python.
+
+Pygame: Pygame is a popular platform for the Python modules designed to write video games.
+While this library is not for Android development, you can use tools like Pygame Subset for Android (PGS4A) to pack your Pygame -based game for the Android platform.
