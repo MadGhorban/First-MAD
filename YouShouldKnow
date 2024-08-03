@@ -35,3 +35,6 @@ With Kivy, you can create games and other interactive applications using Python.
 While this library is not for Android development, you can use tools like Pygame Subset for Android (PGS4A) to pack your Pygame -based game for the Android platform.
 
 *Renpy: If you are interested in creating interactive storytelling games, Renpi is a visual game engine that uses the Python script.
+
+*SL4A (Scripting Layer for Android): SL4A is an open source project that allows you to run scripts and interpret different programming languages ​​on Android devices.
+The platform supports Python, and while it's not primarily designed for game development, you can use it to create simple games.
