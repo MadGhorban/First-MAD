@@ -39,6 +39,6 @@ While this library is not for Android development, you can use tools like Pygame
 *SL4A (Scripting Layer for Android): SL4A is an open source project that allows you to run scripts and interpret different programming languages ​​on Android devices.
 The platform supports Python, and while it's not primarily designed for game development, you can use it to create simple games.
 
-Chaquopy: Chaquopy is a plugin for Android Studio that allows you to develop Android apps using Python. 
+*Chaquopy: Chaquopy is a plugin for Android Studio that allows you to develop Android apps using Python. 
 This Python game development plugin allows you to seamlessly combine Python and Java/Kotlin code. 
 While this plugin is not focused on game development, it can be used to create games as well.
