@@ -1,4 +1,4 @@
-*What games are made with Python?
+*What games are made with Python?:
 
 Python's versatility has extended far into the realm of game development, 
 and today numerous creative and entertaining computer games have been developed using the language's capabilities. 
@@ -21,7 +21,7 @@ There are a lot of games made with Python and we will limit ourselves to the one
 If you want to know what games are written with Python and get a complete list of them, use other sources and references.
 Most games use the "tkinter" interface and the "pygame" library to create games with Python.
 
-#Python game code for Android
+#Python game code for Android:
 
 Users may have a question whether it is possible to make an Android game with Python?
 The answer to this question is yes, and there are several ways to achieve this goal, i.e.
