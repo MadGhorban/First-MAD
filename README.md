@@ -1,6 +1,6 @@
 ## wellcome to my repository ##
 
->Hi this is [Mohammad Ghorban]
+>Hello, my name is [Mohammad Ghorban]
 
 > it's my first GitHub repository.
 
